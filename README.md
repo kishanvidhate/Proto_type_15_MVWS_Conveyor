@@ -1,2 +1,2 @@
-# Proto_type_12_MVWS_Conveyor-
-Proto_type_12_MVWS_Conveyor/
+# Proto_type_15_MVWS_Conveyor-
+Proto_type_15_MVWS_Conveyor/
